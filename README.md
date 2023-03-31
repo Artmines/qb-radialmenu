@@ -1,5 +1,5 @@
 # qb-radialmenu
-Radial Menu Used With QB-Core :arrows_counterclockwise:
+Radial Menu Used With QB-Core with mz-skills :arrows_counterclockwise:
 ## NYC MAPS
 - [CRM DEVELOPMENT](https://discord.gg/crm)  
 - [Hell Script Shop](https://discord.gg/WKNRDtF9jp)
